@@ -1,0 +1,8 @@
+  body { font-family: system-ui, sans-serif; max-width: 420px; margin: 40px auto; background: #f4f2fb; color: #2b1f42; }
+  h1 { color: #5b2a86; font-size: 1.3rem; }
+  input, select, button { font-size: 1rem; padding: 8px; margin-top: 8px; display: block; }
+  button { background: #009688; color: #fff; border: none; border-radius: 6px; cursor: pointer; }
+  #resultado { margin-top: 16px; font-weight: bold; padding: 10px; border-radius: 6px; }
+  .vermelho { background: #ffcdd2; }
+  .amarelo  { background: #fff3b0; }
+  .verde    { background: #c8e6c9; }

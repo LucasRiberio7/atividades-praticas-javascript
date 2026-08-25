@@ -1,0 +1,4 @@
+  body { font-family: system-ui, sans-serif; max-width: 420px; margin: 40px auto; background: #f4f2fb; color: #2b1f42; text-align: center; }
+  h1 { color: #5b2a86; font-size: 1.3rem; }
+  button { font-size: 1rem; padding: 8px 16px; margin: 6px; background: #009688; color: #fff; border: none; border-radius: 6px; cursor: pointer; }
+  #painel { font-size: 3rem; font-weight: bold; background: #2b1f42; color: #fff3b0; padding: 20px; border-radius: 10px; margin-top: 16px; }

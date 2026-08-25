@@ -1,0 +1,5 @@
+  body { font-family: system-ui, sans-serif; max-width: 420px; margin: 40px auto; background: #f4f2fb; color: #2b1f42; }
+  h1 { color: #5b2a86; font-size: 1.3rem; }
+  button { font-size: 0.95rem; padding: 8px; margin: 4px 4px 4px 0; background: #009688; color: #fff; border: none; border-radius: 6px; cursor: pointer; }
+  li { display: flex; justify-content: space-between; background: #fff; padding: 6px 10px; margin-top: 4px; border-radius: 6px; }
+  #total { font-weight: bold; margin-top: 12px; font-size: 1.2rem; color: #ff8f00; }

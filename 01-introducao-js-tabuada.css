@@ -1,0 +1,5 @@
+  body { font-family: system-ui, sans-serif; max-width: 420px; margin: 40px auto; background: #f4f2fb; color: #2b1f42; }
+  h1 { color: #5b2a86; font-size: 1.3rem; }
+  input, button { font-size: 1rem; padding: 8px; margin-top: 8px; }
+  button { background: #009688; color: #fff; border: none; border-radius: 6px; cursor: pointer; }
+  li { font-family: monospace; }
